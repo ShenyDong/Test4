@@ -2,9 +2,11 @@
 1、Android ListView的用法
 利用SimpleAdapter实现如下界面效果
 点击Tiger 出现如下toast提示
+
 ![AAA](https://github.com/ShenyDong/Test4/blob/master/截图/ListView.png)
 
 2、创建自定义布局的AlertDialog
+
 ![AAA](https://github.com/ShenyDong/Test4/blob/master/截图/AlterDialog.png)
 
 3、使用XML定义菜单
