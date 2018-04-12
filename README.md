@@ -5,7 +5,7 @@
 ![AAA](https://github.com/ShenyDong/Test4/blob/master/截图/ListView.png)
 
 2、创建自定义布局的AlertDialog
-![AAA](https://github.com/ShenyDong/Test4/blob/master/截图/AlterDialog)
+![AAA](https://github.com/ShenyDong/Test4/blob/master/截图/AlterDialog.png)
 
 3、使用XML定义菜单
 菜单项
